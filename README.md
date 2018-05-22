@@ -7,22 +7,36 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 ## Table of Contents
 
-* [Code projects](#code-projects)
+* [Code projects and Workflows](#code-projects-and-workflows)
 * [Papers](#papers)
 * [Books](#books)
 * [Courses](#courses)
 
-## Code projects
+## Code projects and Workflows
+
+* [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review) (2017) by Sasank Chilamkurthy | qure.ai
 
 * [deeplab_v3](https://github.com/anxiangSir/deeplab_v3) by anxiangSir | Github
 
+* [Deep learning for satellite imagery via image segmentation](https://blog.deepsense.ai/deep-learning-for-satellite-imagery-via-image-segmentation/) (2017) by Arkadiusz Nowaczynski | deepsense.ai
+
+* [Deep Learning for Semantic Segmentation of Aerial Imagery](https://www.azavea.com/blog/2017/05/30/deep-learning-on-aerial-imagery/) (2017) by Lewis Fishgold and Rob Emanuele | azavea
+
+* [fieldRNN: Temporal Vegetation Classification with Recurrent Neural Networks](https://github.com/TUM-LMF/fieldRNN) by TUM-LMF | Github
+
 * [Kaggle Hackathon with Tensorflow - Satellite Image Classification](https://www.meetup.com/machine-learning-society-sd/events/236876160/) (2017) by Machine Learning Society
+
+* [Object Detection on SpaceNet](https://medium.com/the-downlinq/object-detection-on-spacenet-5e691961d257) (2016) by Hagerty, P. | Medium
 
 * [Satellite Image Segmentation: a Workflow with U-Net](https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/) (2017) by Chevallier, G. | Vooban
 
-* [raster-vision: deep learning for aerial/satellite imagery](https://github.com/azavea/raster-vision) by Azavea | Github
+* [ssai-cnn: Semantic Segmentation for Aerial / Satellite Images with Convolutional Neural Networks](https://github.com/mitmul/ssai-cnn) by Shunta Saito | Github
+
+* [raster-vision: deep learning for aerial/satellite imagery](https://github.com/azavea/raster-vision) by azavea | Github
 
 * [Using Convolutional Neural Networks to detect features in satellite images](http://ataspinar.com/2017/12/04/using-convolutional-neural-networks-to-detect-features-in-sattelite-images/) (2017) by Taspinar, A.
+
+* [WaterNet: A convolutional neural network that identifies water in satellite images](https://github.com/treigerm/WaterNet) by Tim Reichelt | Github
 
 ## Papers
 
