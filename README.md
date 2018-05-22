@@ -7,12 +7,12 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 ## Table of Contents
 
-* [Projects](#code-projects)
+* [Code projects](#code-projects)
 * [Papers](#papers)
 * [Books](#books)
 * [Courses](#courses)
 
-## Code Projects
+## Code projects
 
 * [deeplab_v3](https://github.com/anxiangSir/deeplab_v3) by anxiangSir | Github
 
