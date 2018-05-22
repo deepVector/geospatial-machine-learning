@@ -6,12 +6,8 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 
 ## Table of Contents
-
-
-## Papers
-
-
-## Projects
+* [Books](##Books)
+* [Courses](##Courses)
 
 
 ## Books
@@ -52,37 +48,17 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 ## Courses
 
-[Classification Models](https://www.udacity.com/course/classification-models--ud978) (2018) by alteryx and tab|eau | Udacity
+* [Classification Models](https://www.udacity.com/course/classification-models--ud978) (2018) by alteryx and tab|eau | Udacity
 
+* [Intro to Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (2018) by Google | Udacity
 
+* [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) (2018) by Google
 
+* [Learn TensorFlow and deep learning, without a Ph.D](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd) (2017) by Görner, M.
 
+* [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) (2018) by kaggle | Udacity
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [Deep Learning](https://www.kaggle.com/learn/deep-learning) (2018) by kaggle
 
 ## Credits
 - Inspired by [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
