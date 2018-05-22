@@ -82,7 +82,7 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) (2018) by kaggle | Udacity
 
-* [Learn TensorFlow and deep learning, without a Ph.D](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd) (2017) by Görner, M.
+* [Learn TensorFlow and deep learning, without a Ph.D](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd) (2017) by Görner, M. | Google
 
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) (2018) by Google
 
