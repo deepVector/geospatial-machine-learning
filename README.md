@@ -6,8 +6,8 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 
 ## Table of Contents
-* [Books](##Books)
-* [Courses](##Courses)
+* [Books](#Books)
+* [Courses](#Courses)
 
 
 ## Books
