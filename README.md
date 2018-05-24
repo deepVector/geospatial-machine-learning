@@ -30,6 +30,8 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 * [forecastVeg: A Machine Learning Approach to Forecasting Remotely Sensed Vegetation Health](https://github.com/JohnNay/forecastVeg) by John Nay| Github
 
+* [How to do Semantic Segmentation using Deep learning](https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef) (2018) by James Le | Medium
+
 * [Kaggle Hackathon with Tensorflow - Satellite Image Classification](https://www.meetup.com/machine-learning-society-sd/events/236876160/) (2017) by Machine Learning Society
 
 * [label-maker: Data Preparation for Satellite Machine Learning](https://github.com/developmentseed/label-maker) by Development Seed | Github
