@@ -36,6 +36,8 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 * [Satellite Image Segmentation: a Workflow with U-Net](https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/) (2017) by Chevallier, G. | Vooban
 
+* [semantic_segmentation_satellite_image](https://github.com/msahamed/semantic_segmentation_satellite_image) by Sabber Ahamed | Github
+
 * [ssai-cnn: Semantic Segmentation for Aerial / Satellite Images with Convolutional Neural Networks](https://github.com/mitmul/ssai-cnn) by Shunta Saito | Github
 
 * [raster-vision: deep learning for aerial/satellite imagery](https://github.com/azavea/raster-vision) by azavea | Github
