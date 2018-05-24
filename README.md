@@ -11,6 +11,7 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 * [Papers](#papers)
 * [Books](#books)
 * [Courses](#courses)
+* [Companies](#companies)
 
 ## Code projects and Workflows
 
@@ -119,6 +120,10 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 * [Learn TensorFlow and deep learning, without a Ph.D](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd) (2017) by Görner, M. | Google
 
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) (2018) by Google
+
+## Companies
+* [SpaceKnow](https://www.spaceknow.com/)
+
 
 ## Credits
 Inspired by [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
