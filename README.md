@@ -16,7 +16,11 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 * [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review) (2017) by Sasank Chilamkurthy | qure.ai
 
+* [Deeplab Image Semantic Segmentation Network](https://sthalles.github.io/deep_segmentation_network/) (2018) by Thalles Silva | sthalles.github.io
+
 * [deeplab_v3](https://github.com/anxiangSir/deeplab_v3) by anxiangSir | Github
+
+* [deeplab_v3: Tensorflow Implementation of the Semantic Segmentation DeepLab_V3 CNN](https://github.com/sthalles/deeplab_v3) by Thalles Silva | Github
 
 * [Deep learning for satellite imagery via image segmentation](https://blog.deepsense.ai/deep-learning-for-satellite-imagery-via-image-segmentation/) (2017) by Arkadiusz Nowaczynski | deepsense.ai
 
