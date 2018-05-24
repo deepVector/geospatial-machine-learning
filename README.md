@@ -24,9 +24,15 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 * [fieldRNN: Temporal Vegetation Classification with Recurrent Neural Networks](https://github.com/TUM-LMF/fieldRNN) by TUM-LMF | Github
 
+* [forecastVeg: A Machine Learning Approach to Forecasting Remotely Sensed Vegetation Health](https://github.com/JohnNay/forecastVeg) by John Nay| Github
+
 * [Kaggle Hackathon with Tensorflow - Satellite Image Classification](https://www.meetup.com/machine-learning-society-sd/events/236876160/) (2017) by Machine Learning Society
 
+* [label-maker: Data Preparation for Satellite Machine Learning](https://github.com/developmentseed/label-maker) by Development Seed | Github
+
 * [Object Detection on SpaceNet](https://medium.com/the-downlinq/object-detection-on-spacenet-5e691961d257) (2016) by Hagerty, P. | Medium
+
+* [satellite-image-object-detection: YOLO/YOLOv2 inspired deep network for object detection on satellite images (Tensorflow, Numpy, Pandas)](https://github.com/marcbelmont/satellite-image-object-detection) by Marc Belmont | Github
 
 * [Satellite Image Segmentation: a Workflow with U-Net](https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/) (2017) by Chevallier, G. | Vooban
 
@@ -44,7 +50,13 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 * [Comprehensive survey of deep learning in remote sensing: theories, tools, and challenges for the community](http://dx.doi.org/10.1117/1.JRS.11.042609) (2017) by Ball, J.E., Anderson, D.T., and Chan, C.S. | Journal of Applied Remote Sensing, v. 11, p. 54
 
+* [Deep Learning Classification of Land Cover and Crop Types Using Remote Sensing Data](http://dx.doi.org/10.1109/LGRS.2017.2681128) (2017) by Kussul, N., Lavreniuk, M., Skakun, S., Shelestov, A. |  IEEE Geoscience and Remote Sensing Letters
+
 * [Deep learning for visual understanding: A review](http://dx.doi.org/10.1016/j.neucom.2015.09.116) (2016) by Guo, Y., Liu, Y., Oerlemans, A., Lao, S., Wu, S., and Lew, M.S. | Neurocomputing, v. 187, p. 27-48
+
+* [Deep learning in remote sensing scene classification: a data augmentation enhanced convolutional neural network framework](http://dx.doi.org/10.1080/15481603.2017.1323377) by Xingrui Yu, Xiaomin Wu, Chunbo Luo & Peng Ren | GIScience & Remote Sensing 54:5, 741-758
+
+* [Multi-label Classification of Satellite Images with Deep Learning](cs231n.stanford.edu/reports/2017/pdfs/908.pdf) (2017) by Gardner, D. and Nichols, D. | Stanford University
 
 * [Sensing Urban Land-Use Patterns by Integrating Google Tensorflow and Scene-Classification Models](https://arxiv.org/abs/1708.01580) (2017) by Yao, Y., Liang, H., Li, X., Zhang, J., and He, J. | arXiv
 
