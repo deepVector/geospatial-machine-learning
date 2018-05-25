@@ -39,6 +39,8 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 * [Object Detection on SpaceNet](https://medium.com/the-downlinq/object-detection-on-spacenet-5e691961d257) (2016) by Hagerty, P. | Medium
 
+* [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/rules-of-ml/) (2018) by Martin Zinkevich | Google Developers
+
 * [satellite-image-object-detection: YOLO/YOLOv2 inspired deep network for object detection on satellite images (Tensorflow, Numpy, Pandas)](https://github.com/marcbelmont/satellite-image-object-detection) by Marc Belmont | Github
 
 * [Satellite Image Segmentation: a Workflow with U-Net](https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/) (2017) by Chevallier, G. | Vooban
