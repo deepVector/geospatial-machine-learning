@@ -125,6 +125,8 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) (2018) by Google
 
+* [ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification/) (2018) by Google
+
 ## Companies
 * [SpaceKnow](https://www.spaceknow.com/)
 
