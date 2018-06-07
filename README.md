@@ -62,6 +62,8 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 - [Dstl Satellite Imagery Feature Detection](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection): A set of 1km x 1km satellite images in both 3-band and 16-band formats, by the [Defence Science and Technology Laboratory (Dstl)](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory) | Kaggle
 
+- [DeepSat (SAT-6) Airborne Dataset](https://www.kaggle.com/crawford/deepsat-sat6): 405,000 image patches in six land cover classes, by Chris Crawford | Kaggle
+
 - [SAT-4 and SAT-6 airborne datasets](http://csc.lsu.edu/~saikat/deepsat/): Images extracted from the [National Agriculture Imagery Program (NAIP) dataset](http://www.fsa.usda.gov/Internet/FSA_File/naip_2009_info_final.pdf)  by Saikat Basu, Sangram Ganguly, Supratik Mukhopadhyay, Robert Dibiano, Manohar Karki and Ramakrishna Nemani | Louisiana State University
 
 - [SpaceNet](https://registry.opendata.aws/spacenet/): A corpus of commercial satellite imagery and labeled training data to foster innovation in the development of computer vision algorithms | AWS
