@@ -8,6 +8,7 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 ## Table of Contents
 
 * [Code projects and Workflows](#code-projects-and-workflows)
+* [Datasets](#datasets)
 * [Papers](#papers)
 * [Books](#books)
 * [Courses](#courses)
@@ -56,6 +57,15 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 * [Using Convolutional Neural Networks to detect features in satellite images](http://ataspinar.com/2017/12/04/using-convolutional-neural-networks-to-detect-features-in-sattelite-images/) (2017) by Taspinar, A.
 
 * [WaterNet: A convolutional neural network that identifies water in satellite images](https://github.com/treigerm/WaterNet) by Tim Reichelt | Github
+
+## Datasets
+
+- [Dstl Satellite Imagery Feature Detection](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection): A set of 1km x 1km satellite images in both 3-band and 16-band formats, by the [Defence Science and Technology Laboratory (Dstl)](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory) | Kaggle
+
+- [SAT-4 and SAT-6 airborne datasets](http://csc.lsu.edu/~saikat/deepsat/): Images extracted from the [National Agriculture Imagery Program (NAIP) dataset](http://www.fsa.usda.gov/Internet/FSA_File/naip_2009_info_final.pdf)  by Saikat Basu, Sangram Ganguly, Supratik Mukhopadhyay, Robert Dibiano, Manohar Karki and Ramakrishna Nemani | Louisiana State University
+
+- [SpaceNet](https://registry.opendata.aws/spacenet/): A corpus of commercial satellite imagery and labeled training data to foster innovation in the development of computer vision algorithms | AWS
+
 
 ## Papers
 
