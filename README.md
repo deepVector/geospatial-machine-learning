@@ -139,6 +139,8 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 * [ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification/) (2018) by Google
 
+* [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html) (2018) by Chip Huyen, Michael Straka, Pedro Garzon, Christopher Manning, Danijar Hafner | Stanford University
+
 ## Companies
 * [SpaceKnow](https://www.spaceknow.com/)
 
