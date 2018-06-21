@@ -127,6 +127,8 @@ A curated list of resources focused on Machine Learning in Geospatial Data Scien
 
 * [Classification Models](https://www.udacity.com/course/classification-models--ud978) (2018) by alteryx and tab|eau | Udacity
 
+* [Computer Vision Crash Course](https://www.youtube.com/watch?v=-4E2-0sxVUM) (2018) | PBS Digital Studios
+
 * [Deep Learning](https://www.kaggle.com/learn/deep-learning) (2018) by kaggle
 
 * [Intro to Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (2018) by Google | Udacity
